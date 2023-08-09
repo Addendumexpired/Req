@@ -2,8 +2,8 @@
   "rewrites": [
     
     {
-    "source": "/(.*)/(.*)/raw/",
-      "destination": "https://github.com/"
+    "source": "/:user",
+      "destination": "https://github.com/:user"
      
     },
     
