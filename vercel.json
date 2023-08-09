@@ -2,8 +2,8 @@
   "rewrites": [
     
     {
-     "source": "/:user/:repo/raw/:branch/:path*",
-      "destination": "https://github.com/:user/:repo/raw/:branch/"  
+    "source": "/:user/:repo/raw/:branch/(.*)",
+      "destination": "https://github.com/:user/:repo/raw/:branch/$1"
      
     },
     
