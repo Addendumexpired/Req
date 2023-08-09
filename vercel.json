@@ -1,8 +1,8 @@
 {
-  "rewrites": [
+  "routes": [
     {
-      "source": "(.*)",
-      "destination": "https://github.com/pojiezhiyuanjun/freev2/blob/master/0101.txt",
+      "src": "/(.*)",
+      "dest": "https://github.com/pojiezhiyuanjun/freev2/blob/master/0101.txt",
       "status": 307
     }
   ]
