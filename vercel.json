@@ -2,7 +2,7 @@
   "rewrites": [
     
     {
-      "source": "/pojiezhiyuanjun/freev2/raw/:path*",
+      "source": "/pojiezhiyuanjun/freev2/raw/master/0101.txt",
       
       "destination": "https://github.com/:path*"    
      
