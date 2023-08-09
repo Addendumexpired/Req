@@ -1,13 +1,8 @@
 {
-
-  "rewrites": [
-    { 
-      "source": "(.*)", 
-      "destination": "https://github.com/" ,
-      "statusCode":301
-    
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://github.com/"
     }
-  
   ]
 }
-
