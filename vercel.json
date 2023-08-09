@@ -1,11 +1,7 @@
 {
   "rewrites": [
     
-    {
-    "source": "/:user/:auser",
-      "destination": "https://github.com/kkkk"
-     
-    },
+   
     
     {
       "source": "(.*)",
