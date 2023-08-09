@@ -2,7 +2,7 @@
   "rewrites": [
     
     {
-    "source": "/:user",
+    "source": ":user",
       "destination": "https://github.com/:user"
      
     },
