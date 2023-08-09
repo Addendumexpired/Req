@@ -1,13 +1,15 @@
 {
   "rewrites": [
-    {
-      "source": "(.*)",
-      "destination": "https://github.com/$1"
-    },
+    
     {
       "source": "/d/(.*)",
       "destination": "https://github.com/vvff"
      
+    },
+    
+    {
+      "source": "(.*)",
+      "destination": "https://github.com/$1"
     }
   ]
 }
