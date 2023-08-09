@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "(.*)",
-      "dest": "https://github.com/pojiezhiyuanjun/freev2/blob/master/0102.txt",
+      "dest": "https://ytb.yttrium.eu.org/pojiezhiyuanjun/freev2/blob/master/0102.txt",
       "status": 307
     }
   ]
