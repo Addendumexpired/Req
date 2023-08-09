@@ -2,7 +2,8 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://github.com/pojiezhiyuanjun/freev2/blob/master/0101clash.yml"
+      "dest": "https://github.com/pojiezhiyuanjun/freev2/blob/master/0101clash.yml",
+      "status": 307
     }
   ]
 }
