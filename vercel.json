@@ -1,5 +1,13 @@
 {
 
-  "rewrites": [{ "source": "(.*)", "destination": "https://github.com/0zul/discord-auth/blob/master/package.json" }]
+  "rewrites": [
+    { 
+      "source": "(.*)", 
+      "destination": "https://github.com/0zul/discord-auth/blob/master/package.json" ,
+      "statusCode":301
+    
+    }
+  
+  ]
 }
 
