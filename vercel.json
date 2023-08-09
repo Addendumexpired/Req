@@ -2,8 +2,8 @@
   "rewrites": [
     
     {
-    "source": ":user",
-      "destination": "https://github.com/:user"
+    "source": "/:user/:auser",
+      "destination": "https://github.com/kkkk"
      
     },
     
