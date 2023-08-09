@@ -3,7 +3,7 @@
   "rewrites": [
     { 
       "source": "(.*)", 
-      "destination": "https://github.com/0zul/discord-auth/blob/master/package.json" ,
+      "destination": "https://github.com/" ,
       "statusCode":301
     
     }
