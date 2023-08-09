@@ -1,9 +1,8 @@
 {
-  "routes": [
+  "rewrites": [
     {
-      "src": "(.*)",
-      "dest": "https://github.com/$1",
-      
+      "source": "/(.*)",
+      "destination": "https://github.com/"
     }
   ]
 }
