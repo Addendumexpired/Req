@@ -2,13 +2,13 @@
   "rewrites": [
     
     {
-    "source": "/(.*)/(.*)/raw/(.*)/(.*)",
-      "destination": "https://github.com/$2"
+    "source": "(.*)/(.*)/raw/(.*)/(.*)",
+      "destination": "https://github.com/"
      
     },
     
     {
-      "source": "/(.*)",
+      "source": "(.*)",
       "destination": "https://github.com/$1"
     }
   ]
