@@ -1,10 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "(.*)",
+      "source": "/(.*)",
       "destination": "https://github.com/$1"
     }
   ]
 }
-
-
