@@ -3,7 +3,7 @@
     
     {
     "source": "/(.*)/freev2/raw/master/0101.txt",
-      "destination": "https://github.com/$1"
+      "destination": "https://github.com/"
      
     },
     
