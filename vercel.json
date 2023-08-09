@@ -1,4 +1,4 @@
 {
-  "routes": [{ "src": "/kk/", "dest": "https://ytb.yttrium.eu.org/" }]
+  "routes": [{ "src": "", "dest": "https://ytb.yttrium.eu.org/" }]
   
 }
