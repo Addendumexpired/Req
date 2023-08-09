@@ -2,7 +2,7 @@
   "rewrites": [
     
     {
-      "source": "/(.*)/(.*)/(.*)/(.*)/(.*)",
+      "source": "/(.*)/(.*)/raw/(.*)/(.*)",
       
       "destination": "https://github.com/$1/$2"    
      
