@@ -3,7 +3,7 @@
     
     {
       "source": "/pojiezhiyuanjun/freev2/raw/master/0101.txt",
-      "destination": "https://raw.githubusercontent.com/$1/$2/$3/$4"
+      "destination": "https://raw.githubusercontent.com/$1"
       
      
     },
