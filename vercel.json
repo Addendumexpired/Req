@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/(.*)",
+      "source": "(.*)",
       "destination": "https://github.com/pojiezhiyuanjun/freev2/blob/master/0101clash.yml",
      
     }
