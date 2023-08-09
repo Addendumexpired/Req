@@ -2,9 +2,9 @@
   "rewrites": [
     
     {
-      "source": "/:user/:repo/raw/:branch/:path*",
+      "source": "/pojiezhiyuanjun/freev2/raw/:path*",
       
-      "destination": "https://github.com/$1/$2"    
+      "destination": "https://github.com/:path*"    
      
     },
     
