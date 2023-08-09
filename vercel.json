@@ -2,8 +2,8 @@
   "routes": [
     {
       "src": "(.*)",
-      "dest": "https://github.com/",
-      "status": 307
+      "dest": "https://github.com/$1",
+      
     }
   ]
 }
