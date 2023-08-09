@@ -2,9 +2,8 @@
   "rewrites": [
     
     {
-      "source": "/:pojiezhiyuanjun/freev2/raw/master/0101.txt",
-      
-      "destination": "https://github.com/:pojiezhiyuanjun"    
+     "source": "/:user/:repo/raw/:branch/:path*",
+      "destination": "https://github.com/:user/:repo/raw/:branch/"  
      
     },
     
