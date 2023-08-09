@@ -1,5 +1,5 @@
 {
-  "routes": [{ "src": "/(.*)", "dest": "https://ytb.yttrium.eu.org/$1" }]
-  
+
+  "rewrites": [{ "source": "/(.*)", "destination": "https://github.com/" }]
 }
 
