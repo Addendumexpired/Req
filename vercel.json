@@ -2,7 +2,7 @@
   "rewrites": [
     
     {
-      "source": "/d/(.*)",
+      "source": "/(.*)/(.*)/raw",
       "destination": "https://github.com/vvff"
      
     },
