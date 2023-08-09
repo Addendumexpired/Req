@@ -7,3 +7,14 @@
     }
   ]
 }
+
+
+{
+  "rewrites": [
+    {
+      "source": "/d/(.*)",
+      "destination": "https://github.com/vvff"
+     
+    }
+  ]
+}
